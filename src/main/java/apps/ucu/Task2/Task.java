@@ -1,4 +1,4 @@
-package apps.ucu;
+package apps.ucu.Task2;
 
 import java.util.HashMap;
 import java.util.Map;
